@@ -16,15 +16,13 @@ Maintenir les liens entre anciens de la faculté. Maintenir les liens avec la fa
 
 Les membres du Conseil d'administration pour l’exercice 2018-2019 ont été élus.
 
-* Steffens Timo : Président
-* Dulion Gaëlle : Trésorière
-* Becquevort Coralie	: Secrétaire
-* van Hoogenbemt Lisa : Chargée d'événements
-* Duriau Aurore : Chargée d'événements
-* Faure Laura : Chargée d'événements
-* Berthelier Julie : Représentante au CA de l'UAE, Chargée de communication, VP Soca-Shum
-* Cheverier Joanne : Chargée du prix mémoire
-* Mardulyn Michette : Chargée de communication
-* Chilton Nick : Chargé des événements
-* Hendrickx Stéphanie : Chargée de communication, VP Sciences Po
-* Poznantek Gaëtan : Chargé du site web
+* Busseniers Vincent : Président
+* Gatez Charlotte : Trésorière
+* van Hoogenbemt Lisa	: Secrétaire
+* Steffens Timo : Représentante au CA de l'UAE, Chargée de communication, VP Soca-Shum
+* Debaisieux Lorelei : Chargée d'événements, Prix mémoire
+* Trejbiez Anaëlle : Chargée d'événements, Prix mémoire
+* Vulic Sacha : Responsable brocante
+* Ranson Grégoire : Relations facultaire
+* Rodriguez Alexandre : Relations associations
+* Karym Jihane : Chargé du site web et communication
