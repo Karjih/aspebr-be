@@ -16,13 +16,13 @@ Maintenir les liens entre anciens de la faculté. Maintenir les liens avec la fa
 
 Les membres du Conseil d'administration pour l’exercice 2018-2019 ont été élus.
 
-* Busseniers Vincent : Président
-* Gatez Charlotte : Trésorière
-* van Hoogenbemt Lisa	: Secrétaire
-* Steffens Timo: Représentante au CA de l'UAE
-* Debaisieux Lorelei : Chargée d'événements, prix mémoire
-* Trejbiez Anaëlle : Chargée d'événements, prix mémoire
-* Vulic Sacha : Responsable brocante
-* Ranson Grégoire: Relations Phisoc
-* Rodriguez Alexandre : Relations associations facultaires
-* Karym Jihane : Chargé du site web et de communication
+* Vincent Busseniers : Président
+* Charlotte Gatez : Trésorière
+* Lisa van Hoogenbemt : Secrétaire
+* Timo Steffens : Représentante au CA de l'UAE
+* Lorelei Debaisieux : Chargée d'événements, prix mémoire
+* Anaëlle Trejbiez : Chargée d'événements, prix mémoire
+* Sacha Vulic : Responsable brocante
+* Grégoire Ranson : Relations Phisoc
+* Alexandre Rodriguez : Relations associations facultaires
+* Jihane Karym : Chargé du site web et de communication
